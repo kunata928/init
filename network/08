@@ -1,0 +1,13 @@
+Amazon Technologies Inc. AT-88-Z (NET-13-32-0-0-1) 13.32.0.0 - 13.47.255.255
+Amazon.com, Inc. AMAZO-CF (NET-13-32-0-0-2) 13.32.0.0 - 13.33.255.255
+
+# Find the provider of slash16.org
+
+# 1. dig slash16.org +short
+# 2. whois <answer>
+
+# Organization: Amazon Technologies Inc.
+
+# https://www.2daygeek.com/check-find-dns-records-of-domain-in-linux-terminal/
+# http://greendail.ru/node/474
+# https://www.reg.ru/whois/?gclid=EAIaIQobChMIyq2EttP54AIVwsAYCh3u4ABvEAAYASAAEgKw__D_BwE

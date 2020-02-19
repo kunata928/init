@@ -1,0 +1,5 @@
+ipconfig getpacket en0 | awk ' /'server_identifier'/ {print $3} '
+
+# Find the IP that was assigned to you by dhcp server
+
+# http://hints.macworld.com/article.php?story=20060124152826491

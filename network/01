@@ -1,0 +1,13 @@
+ifconfig -l
+
+# Get the list of the network interfaces of the machine without displaying
+# any detail for these interfaces. Only the list of names.
+
+# https://losst.ru/komanda-ifconfig-primery-ispolzovaniya
+# http://docs.kpda.ru/index.jsp?topic=%2Fru.kpda.doc.neutrino_utilities_ru%2Fi%2Fifconfig.html
+
+# ifconfig -l -u
+# only list interfaces that are up
+
+# ifconfig -v
+# more detailed error information
