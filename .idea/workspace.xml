@@ -10,10 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4be7efc3-6671-4327-8933-f0232abef6af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/system/01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/02" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/15" beforeDir="false" afterPath="$PROJECT_DIR$/network/15" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,10 @@
       <option name="presentableId" value="Default" />
       <updated>1582128016097</updated>
       <workItem from="1582128021827" duration="8904000" />
-      <workItem from="1582198719098" duration="2211000" />
+      <workItem from="1582198719098" duration="2313000" />
+      <workItem from="1582229913318" duration="179000" />
+      <workItem from="1582230102784" duration="93000" />
+      <workItem from="1582230236516" duration="456000" />
     </task>
     <servers />
   </component>
@@ -58,9 +59,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="988" y="486" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582145879173">
+    <state x="988" y="486" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582230272204">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="988" y="486" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1582145879173" />
+    <state x="988" y="486" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1582230272204" />
+    <state x="887" y="536" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582230092252">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="887" y="536" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1582230092252" />
   </component>
 </project>
