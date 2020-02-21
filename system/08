@@ -1,0 +1,6 @@
+cat /etc/ssh/ssh_host_rsa_key.pub
+
+# What file contains the RSA keys of systems that are authorized to
+# connect via SSH?
+
+# https://www.opennet.ru/base/sec/ssh_conf.txt.html

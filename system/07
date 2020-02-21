@@ -1,0 +1,5 @@
+ps aux | awk ' /'sshd'/ {print $2}'
+
+# Figure out the PID of the SSHD service.
+
+# https://server-gu.ru/process-management-linux-2/

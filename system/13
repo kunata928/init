@@ -1,0 +1,5 @@
+ps aux
+
+# Name the command that find, in real time, currently running processes
+
+# http://www.adodo.ru/blog/linux/93.html

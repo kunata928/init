@@ -1,0 +1,5 @@
+tail -f /var/log/syslog &
+
+# Run the ‘tail -f /var/log/syslog‘ command in background
+
+# https://1cloud.ru/help/linux/linux_zapusk_komand_fonovom_rezhime
