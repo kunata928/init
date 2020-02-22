@@ -1,0 +1,9 @@
+ssh user@hostname
+
+# ssh test@127.0.0.1 -p 2222
+
+# Find the command that allows you to connect via ssh on the VM.
+# (In parallel with the graphic session)
+
+# https://stackoverflow.com/questions/20871085/ssh-usernamehostname-to-ssh-hostname
+# https://medium.com/@pierangelo1982/setting-ssh-connection-to-ubuntu-on-virtualbox-af243f737b8b

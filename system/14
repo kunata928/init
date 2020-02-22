@@ -1,4 +1,4 @@
-tail -f /var/log/syslog &
+sudo tail -f /var/log/syslog &
 
 # Run the ‘tail -f /var/log/syslog‘ command in background
 
