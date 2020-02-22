@@ -1,0 +1,9 @@
+# Graphic Session:
+# Select new login username, enter <password>.
+
+# SSH Session:
+# su - <username>
+# <password>
+
+# Explain how connect yourself as new user. (With graphic session and ssh
+# session)sh

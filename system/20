@@ -1,0 +1,9 @@
+sed 's/:.*//' /etc/passwd
+
+# or
+# cut -d: -f1 /etc/passwd
+# getent passwd | awk -F: '{ print $1}'
+
+# List all existing users on the VM
+
+# https://losst.ru/kak-posmotret-spisok-polzovatelej-v-ubuntu
