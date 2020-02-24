@@ -1,6 +1,6 @@
 sudo useradd nata
 
-# but this command is better
+# or
 # sudo adduser newone
 
 # Find the command that add a new local user

@@ -2,4 +2,5 @@ getent passwd {1000..60000}
 
 # List all real users on the VM
 
+# grep -E '^UID_MIN|^UID_MAX' /etc/login.defs
 # https://linuxize.com/post/how-to-list-users-in-linux/

@@ -1,0 +1,5 @@
+sudo service ssh stop
+
+# Find the command that kills ssh service
+
+# https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/

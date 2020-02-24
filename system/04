@@ -1,3 +1,8 @@
 uptime
 
+# or
+# uptime -p
+# uptime -s date and time last boot
+
 # What command gives you the time since your system was last booted?
+# https://andreyex.ru/operacionnaya-sistema-linux/komanda-uptime-v-linux/
