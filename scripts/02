@@ -1,0 +1,4 @@
+sudo userdel -rf $1
+
+#sudo userdel -rf $USER
+# Write a script which delete an ACTIVE user on the VM
